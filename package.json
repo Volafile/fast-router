@@ -1,0 +1,25 @@
+{
+  "name": "fast-router",
+  "description": "A fast & simple O(1) URL router for node.js that can be used for almost anything.",
+  "version": "1.0.5",
+  "homepage": "https://github.com/Volafile/fast-router",
+  "license": "MIT",
+  "keywords": [
+    "url",
+    "router",
+    "tree",
+    "fast"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Volafile/fast-router.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Volafile/fast-router/issues"
+  },
+  "author": {
+    "name": "laino",
+    "email": "lain@volafile.org"
+  },
+  "private": false
+}
